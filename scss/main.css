@@ -365,6 +365,9 @@ h4, .h4 {
 
 .content {
   padding: 120px 0;
+  background-image: url("../img/Poligons1.svg");
+  background-repeat: no-repeat;
+  background-position: 0px -341px;
 }
 
 .cart {
@@ -451,6 +454,9 @@ h4, .h4 {
     margin-top: 4rem;
     font-size: 16px;
     padding: 0.43rem 3.88rem;
+  }
+  .content {
+    background-position: -360px -371px;
   }
 }
 /*# sourceMappingURL=main.css.map */
